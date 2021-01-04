@@ -10,3 +10,16 @@ D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.Ass
 D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.dll
 D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\ref\Semana14.dll
 D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.pdb
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\bin\Debug\netstandard2.0\Semana14.deps.json
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\bin\Debug\netstandard2.0\Semana14.dll
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\bin\Debug\netstandard2.0\ref\Semana14.dll
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\bin\Debug\netstandard2.0\Semana14.pdb
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.dll
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\obj\Debug\netstandard2.0\ref\Semana14.dll
+C:\Users\ASUS\source\repos\Semana14-v2\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.pdb

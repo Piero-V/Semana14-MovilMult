@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\source\\repos\\Semana14\\Semana14\\Semana14.Android\\Semana14.Android.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.Android\\Semana14.Android.csproj": {}
   },
   "projects": {
-    "D:\\source\\repos\\Semana14\\Semana14\\Semana14.Android\\Semana14.Android.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.Android\\Semana14.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\Semana14\\Semana14\\Semana14.Android\\Semana14.Android.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.Android\\Semana14.Android.csproj",
         "projectName": "Semana14.Android",
-        "projectPath": "D:\\source\\repos\\Semana14\\Semana14\\Semana14.Android\\Semana14.Android.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\Semana14\\Semana14\\Semana14.Android\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.Android\\Semana14.Android.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "D:\\source\\repos\\Semana14\\Semana14\\Semana14\\Semana14.csproj": {
-                "projectPath": "D:\\source\\repos\\Semana14\\Semana14\\Semana14\\Semana14.csproj"
+              "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "D:\\source\\repos\\Semana14\\Semana14\\Semana14\\Semana14.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\source\\repos\\Semana14\\Semana14\\Semana14\\Semana14.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj",
         "projectName": "Semana14",
-        "projectPath": "D:\\source\\repos\\Semana14\\Semana14\\Semana14\\Semana14.csproj",
-        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "D:\\source\\repos\\Semana14\\Semana14\\Semana14\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -121,7 +121,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

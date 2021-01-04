@@ -4,7 +4,9 @@ using System.Text;
 
 namespace Semana14.Interfaces
 {
-    class IConfigDataBase
+    public interface IConfigDataBase
     {
+        string GetFullPath(string databaseFileName);
     }
+
 }

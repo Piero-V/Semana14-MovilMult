@@ -3349,24 +3349,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LENOVO\\.nuget\\packages\\": {},
+    "C:\\Users\\ASUS\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\repos\\Semana14\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj",
       "projectName": "Semana14.iOS",
-      "projectPath": "D:\\source\\repos\\Semana14\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj",
-      "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\repos\\Semana14\\Semana14\\Semana14.iOS\\obj\\",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj",
+      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -3380,8 +3380,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\source\\repos\\Semana14\\Semana14\\Semana14\\Semana14.csproj": {
-              "projectPath": "D:\\source\\repos\\Semana14\\Semana14\\Semana14\\Semana14.csproj"
+            "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj"
             }
           }
         }

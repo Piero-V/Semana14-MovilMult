@@ -7,8 +7,6 @@ D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\App.xaml.g.c
 D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.AssemblyInfoInputs.cache
 D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.AssemblyInfo.cs
-D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.csproj.CoreCompileInputs.cache
-D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\XamlC.stamp
 D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.dll
 D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\ref\Semana14.dll
 D:\source\repos\Semana14\Semana14\Semana14\obj\Debug\netstandard2.0\Semana14.pdb

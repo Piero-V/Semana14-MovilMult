@@ -15,6 +15,7 @@ namespace Semana14.Views
         public AlumnosPage()
         {
             InitializeComponent();
+            
         }
     }
 }

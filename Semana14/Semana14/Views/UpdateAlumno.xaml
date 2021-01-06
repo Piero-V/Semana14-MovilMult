@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:ViewModel="clr-namespace:Semana14.ViewModels"
+             x:Class="Semana14.Views.Page1"
+             Title="Actualizar Registro">
+    <ContentPage.BindingContext>
+        <ViewModel:AlumnosViewModel/>
+    </ContentPage.BindingContext>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout.Padding>
+                <OnPlatform 
+                    x:TypeArguments="Thickness"
+                    Android="20"
+                    iOS="50"/>
+            </StackLayout.Padding>
+
+            <Label 
+                Text="Curso"/>
+            <Picker
+                Title="Selecciona un curso"
+                ItemsSource="{Binding Cursos}"
+                ItemDisplayBinding="{Binding Nombre}"
+                SelectedItem="{Binding SelectedCurso}"/>
+
+            <Label
+                Text="Nombre"/>
+            <Entry 
+                Placeholder="Ingrese nombre del estudiante"
+                Text="{Binding Titulo}"/>
+
+            <Label
+                Text="Precio"/>
+            <Entry 
+                Placeholder="Precio del curso"
+                Text="{Binding Precio}"/>
+
+            <Label
+                Text="Año"/>
+            <Entry 
+                Placeholder="Año"
+                Text="{Binding Anio}"/>
+
+            <Button
+                Text="Guardar"
+                Command="{Binding CreateCommand}"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

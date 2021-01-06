@@ -86,6 +86,25 @@
                                             Grid.Row="3"
                                             Grid.Column="1"
                                             Text="{Binding Anio}"/>
+
+                                        <ImageButton 
+                                            Grid.Row="2"
+                                            Grid.Column="3"
+                                            Source="https://cdn.icon-icons.com/icons2/931/PNG/512/delete_remove_bin_icon-icons.com_72400.png"
+                                            
+                                            HeightRequest="40"
+                                            BackgroundColor="White"
+                                            />
+                                        <ImageButton 
+                                            Grid.Row="3"
+                                            Grid.Column="3"
+                                            Source="https://cdn.icon-icons.com/icons2/931/PNG/512/pencil_icon-icons.com_72386.png"
+                                            
+                                            HeightRequest="40"
+                                            BackgroundColor="White"
+                                            x:Name="updateAlum"
+                                            />
+
                                     </Grid>
                                 </StackLayout>
                             </Frame>

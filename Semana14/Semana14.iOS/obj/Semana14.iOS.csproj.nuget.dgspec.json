@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj": {}
+    "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj": {
+    "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj",
+        "projectUniqueName": "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj",
         "projectName": "Semana14.iOS",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14.iOS\\obj\\",
+        "projectPath": "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14.iOS\\Semana14.iOS.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj": {
-                "projectPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj"
+              "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14\\Semana14.csproj": {
+                "projectPath": "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14\\Semana14.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj": {
+    "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14\\Semana14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj",
+        "projectUniqueName": "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14\\Semana14.csproj",
         "projectName": "Semana14",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\Semana14.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Semana14-v2\\Semana14\\Semana14\\obj\\",
+        "projectPath": "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14\\Semana14.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "D:\\source\\repos\\lab14\\Semana14-MovilMult\\Semana14\\Semana14\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -136,7 +136,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
